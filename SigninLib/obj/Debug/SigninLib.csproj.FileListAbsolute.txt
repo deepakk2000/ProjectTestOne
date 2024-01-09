@@ -1,0 +1,6 @@
+D:\Phase 4\TestProject1\SigninLib\bin\Debug\SigninLib.dll
+D:\Phase 4\TestProject1\SigninLib\bin\Debug\SigninLib.pdb
+D:\Phase 4\TestProject1\SigninLib\obj\Debug\SigninLib.csproj.AssemblyReference.cache
+D:\Phase 4\TestProject1\SigninLib\obj\Debug\SigninLib.csproj.CoreCompileInputs.cache
+D:\Phase 4\TestProject1\SigninLib\obj\Debug\SigninLib.dll
+D:\Phase 4\TestProject1\SigninLib\obj\Debug\SigninLib.pdb
